@@ -2,7 +2,7 @@
 
 Este repositório contém o desenvolvimento do projeto da disciplina **Fundamentos de Sistemas Web**, do curso de **Análise e Desenvolvimento de Sistemas** da **PUCRS**.
 
-O projeto consiste na criação de um sistema web para um petshop, com foco na organização das informações, estruturação semântica das páginas e navegação clara, utilizando exclusivamente **HTML puro**, conforme os requisitos da **Fase 1** do projeto.
+O projeto consiste na criação de um sistema web para um petshop, com foco na organização das informações, estruturação semântica das páginas e navegação clara, utilizando exclusivamente **HTML5**
 
 ---
 
