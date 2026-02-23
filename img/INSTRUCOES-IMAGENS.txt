@@ -1,0 +1,32 @@
+============================================
+INSTRUÇÕES – PASTA /img
+============================================
+
+Coloque nesta pasta as imagens com os nomes EXATOS listados abaixo.
+Formato sugerido: JPG ou PNG.
+
+--------------------------------------------
+FUNDO DO SITE (todas as páginas)
+--------------------------------------------
+
+  funfo.jpeg   → imagem de fundo do site (fundo de tela)
+
+--------------------------------------------
+PRODUTOS (página produtos.html)
+--------------------------------------------
+
+1. caminha-confort-plus.jpg   (Caminha Confort Plus)
+2. brinquedo-mordedor.jpg     (Brinquedo Mordedor)
+3. racao-premium-caes.jpg     (Ração Premium Cães Adultos)
+4. racao-premium-gatos.jpg    (Ração Premium Gatos)
+5. tapete-higienico.jpg       (Tapete Higiênico)
+6. shampoo-neutro-pet.jpg    (Shampoo Neutro Pet)
+
+--------------------------------------------
+COMO CRIAR A PASTA (se não existir)
+--------------------------------------------
+
+  mkdir img
+
+Se usar .png em vez de .jpg nos produtos, altere o atributo
+src das tags <img> em produtos.html de .jpg para .png.
